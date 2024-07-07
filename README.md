@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Healthcare app<br>👯 I’m looking to collaborate on Full stack Projects<br>🤝I’m looking for help on Open source<br>💬 Ask me Anything about MERN Stack Web Development<br>🪴I'm Currently learning Solidity
+🔭 I’m currently working on Healthcare app<br>👯 I’m looking to collaborate on Full stack Projects<br>🤝I’m looking for help on Open source<br>💬 Ask me Anything about MERN Stack Web Development<br>🪴I'm Currently learning Solidity & Web3.0
 
 
 ## 🌐 Socials:
