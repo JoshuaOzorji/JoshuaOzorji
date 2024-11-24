@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on an Expense tracking app<br>👯 I’m looking to collaborate on Full stack Projects<br>🤝I’m looking for help on Open source<br>💬 Ask me Anything about Web Development<br>🪴I'm Currently learning Cypress
+🔭 I’m currently working on a blog for commercial consumption <br>👯 I’m looking to collaborate on Full stack Projects<br>🤝I’m looking for help on Open source<br>💬 Ask me Anything about Web Development<br>🪴I'm Currently learning Cypress
 
 
 ## 🌐 Socials:
