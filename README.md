@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 🔭 I’m currently working on a Job Search web app <br>
-👯 I’m looking to collaborate on Full stack Projects<br>
+👯 I’m looking to collaborate on Full-stack web projects<br>
 🤝I’m looking for help on Open source<br>💬 Ask me Anything about Web Development<br>
-🪴I'm Currently learning Cypress
+🪴I'm Currently learning Docker
 
 
 ## 🌐 Socials:
